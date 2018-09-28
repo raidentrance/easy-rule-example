@@ -4,7 +4,7 @@
 package com.devs4j.app.model;
 
 /**
- * @author maagapi
+ * @author raidentrance
  *
  */
 public class Person {
